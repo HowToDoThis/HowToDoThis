@@ -1,16 +1,31 @@
-### Hi there 👋
-My actual main programming language is C#.
-
-Currently trying to make a 2D Game, Networking, or even multiplayer game with C#.
-
-Current On Focus Language:
-- Counter-Strike : Strawberry Milk Edition.
+### Hello, folks! 👋
 
 ## My Github Stats and Rating
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HowToDoThis&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top 3 Of My Programming Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HowToDoThis&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
+## About ME
+My actual main programming language is C#.
+
+Currently trying to make a 2D Game, Networking, or even multiplayer game with C#.
+
+Currently Working on:
+ - Counter-Strike : Strawberry Milk Edition. (Develop with BTE Team, 15minutes(Korean), Private Project But Free To Download)
+ - Counter-Strike : Rebirth (Improved CS 1.6, Currently Private)
+ - Visual Novels Engine (Custom)
+ 
+Currently Learning:
+ - Unity
+ - C++
+ - Networking
+ - Multiplayer System
+ 
+How to contact me?
+ - QQ 3054463734 (Mostly using)
+ - Discord NekoMeow#0939 (Not very frequent use)
+ - [Telegram](https://t.me/NekoMeow0708) (Mostly using)
 
 # Special Thanks
 [Awesome Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) by anuraghazra
