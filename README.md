@@ -12,12 +12,13 @@ Currently Working on:
  - LAN Server Powered by OpenVPN
  
 Currently Learning:
- - Unity
- - C++
+ - C#
+ - C++ or C
  - Networking
  - Multiplayer System
  - OpenVPN
  - TLS\SSL
+ - Ghidra or IDA (RSE)
  
 How to contact me?
  - QQ 3054463734 (Mostly using)
