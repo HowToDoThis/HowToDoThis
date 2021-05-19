@@ -1,34 +1,32 @@
 ### Hello, folks! 👋
 
+# Check out my website now! xein.xyz
+
 ## About ME
 My actual main programming language is C#.
 
 Currently trying to make a 2D Game, Networking, or even multiplayer game with C#.
 
 Currently Working on:
- - Counter-Strike : Strawberry Milk Edition. (Develop with BTE Team, 15minutes(Korean), Private Project But Free To Download)
- - Counter-Strike : Rebirth (Improved CS 1.6, Currently Private)
- - Visual Novels Engine (Custom)
- - LAN Server Powered by OpenVPN
+ - Counter-Strike : Strawberry Milk Edition. (Developer: Me and 15minutes(Korean), Private Project But Free To Download! Check at https://cssmekr.blogspot.com or https://tieba.baidu.com/csoldjb)
+ - Counter-Strike : Rebirth (Heavily Modified CS1.6, A CS Mod that copy CSOL/CSO, Not Yet Started)
+ - Visual Novels Engine (Not Yet Started)
+ - Virtual Multiplayer Network (OpenVPN, ZeroTier, Hamachi, RadminVPN like)
  
 Currently Learning:
  - C#
- - C++ or C
+ - C and C++
  - Networking
  - Multiplayer System
- - OpenVPN
  - TLS\SSL
- - Ghidra or IDA (RSE)
+ - IDA
  
 How to contact me?
  - QQ 3054463734 (Mostly using)
  - Discord NekoMeow#0939 (Not very frequent use)
  - [Telegram](https://t.me/NekoMeow0708) (Mostly using)
 
-## My Github Stats and Rating
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HowToDoThis&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Top 3 Of My Programming Language
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HowToDoThis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HowToDoThis&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 # Special Thanks
