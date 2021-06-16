@@ -22,9 +22,9 @@ Currently Learning:
  - IDA
  
 How to contact me?
- - QQ 3054463734 (Mostly using)
- - Discord NekoMeow#0939 (Not very frequent use)
- - [Telegram](https://t.me/NekoMeow0708) (Mostly using)
+ - QQ 3054463734
+ - Discord NekoMeow#0939
+ - [Telegram](https://t.me/NekoMeow0708)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HowToDoThis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HowToDoThis&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
