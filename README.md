@@ -1,6 +1,8 @@
 ### Hello, folks! 👋
 
-# Check out my website now! xein.xyz
+# Finally Open Community~ Join It now~
+ - **[Official Website](https://www.xein.xyz)**
+ - **[Discord](https://discord.gg/6rWhSuwgNP)**
 
 ## About ME
 My actual main programming language is C#.
