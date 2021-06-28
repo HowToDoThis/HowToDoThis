@@ -25,7 +25,7 @@ Currently Learning:
  
 How to contact me?
  - QQ 3054463734
- - Discord NekoMeow#0939
+ - Discord Xein#0001
  - [Telegram](https://t.me/NekoMeow0708)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HowToDoThis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
