@@ -1,51 +1,72 @@
-### Hello, folks! 👋
+<p align="center">
+  <a href="https://www.xein.xyz">Official Website</a>
+  |
+  <a href="https://discord.gg/6rWhSuwgNP">Discord</a>
+</p>
 
-# Finally Open Community~ Join It now~
- - **[Official Website](https://www.xein.xyz)**
- - **[Discord](https://discord.gg/6rWhSuwgNP)**
+``` csharp
+namespace Xein
+{
+    public class AboutMe
+    {
+        public string Discord  = "Xein#0001";
+        public string Telegram = "@Xein0708";
+        public string QQ       = "3054463734";
+        
+        public AboutMe()
+        {
+            Console.WriteLine(@"
+                Hello, I'm Xein(AKA NekoMeow), from Malaysia. Born in 2002.
+                My main programming language is C#.
+                Currently Trying to make a 2D Game, Visual Novels, Networking Platforms, or even multiplayer games with C#.
+                
+                I mostly using GetLanguages() to programming.
+                And I currently Working on GetWorkingProjects() too.
+                
+                You Can Find My Contact Info At Above Properties Too.
+            ");
+        }
+        
+        public string[] GetLanguages()
+        {
+            return new string[] {
+                "C#",
+                "C",
+                "C++"
+            };
+        }
+        
+        public string[] GetWorkingProjects()
+        {
+            return new string[] {
+                "Xein - My Own Modules/Libraries",
+                "Xein.VPN - A Virtual LAN Networking",
+                "Xein.Networking - A Networking Platfrom, Server Modules and Multiplayer Modules",
+                "Xein.VisualNovel - A Visual Novel Engine, that writes with C#, Using  OpenGL(Windows) and Metal(Mac) as rendering engine",
+                "CS:SME - A CS1.6 Mod try to copy like CSO",
+                "and more private projects that not yet ready for publics"
+            };
+        }
+        
+        public string[] GetFutureGoals()
+        {
+            return new string[] {
+                "Contribute Open Sources Projects",
+                "Support to my loves",
+                "Make more stuff to community",
+                "And find a lover?"
+            };
+        }
+    }
+}
+```
 
-## About ME
-My actual main programming language is C#.
-
-Currently trying to make a 2D Game, Networking, or even multiplayer game with C#.
-
-Currently Working on:
- - Counter-Strike : Strawberry Milk Edition. (Developer: Me and 15minutes(Korean), Private Project But Free To Download! Check at https://cssmekr.blogspot.com or https://tieba.baidu.com/csoldjb)
- - Counter-Strike : Rebirth (Heavily Modified CS1.6, A CS Mod that copy CSOL/CSO, Not Yet Started)
- - Visual Novels Engine (Not Yet Started)
- - Virtual Multiplayer Network (OpenVPN, ZeroTier, Hamachi, RadminVPN like)
- 
-Currently Learning:
- - C#
- - C and C++
- - Networking
- - Multiplayer System
- - TLS\SSL
- - IDA
- 
-How to contact me?
- - QQ 3054463734
- - Discord Xein#0001
- - [Telegram](https://t.me/NekoMeow0708)
-
+# Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HowToDoThis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HowToDoThis&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HowToDoThis&hide_border=true)](https://git.io/streak-stats)
 
 # Special Thanks
-[Awesome Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) by anuraghazra
-
-
-<!--
-**HowToDoThis/HowToDoThis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks to those awesome creators makes a good and free analytics tools.
+- [Awesome Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) by anuraghazra
+- [Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) by DenverCoder1
