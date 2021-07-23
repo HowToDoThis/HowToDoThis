@@ -9,7 +9,7 @@ namespace Xein
 {
     public class AboutMe
     {
-        public string Discord  = "Xein#0001";
+        public string Discord  = "Xein#2146";
         public string Telegram = "@Xein0708";
         public string QQ       = "3054463734";
         
