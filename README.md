@@ -30,6 +30,7 @@ public class AboutMe
             Currently Working On These Projects:
               - Xein (Own Modules/Libraries)
               - csoclient (CSO Client)
+              - CSO-SDK (For IDA)
               - XeinDevTeam
                 - newlinktree (Linktree, which shows your links in a website! DEMO: https://linktree.xein.dev)
                 - DiscordStuffs (A BetterDiscord Theme Repo Based on ClearVision)
@@ -48,7 +49,7 @@ public class AboutMe
 ```
 
 # Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HowToDoThis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HowToDoThis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HowToDoThis&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HowToDoThis&hide_border=true)](https://git.io/streak-stats)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xein0708&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
